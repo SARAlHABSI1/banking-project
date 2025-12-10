@@ -1,0 +1,5 @@
+read cerrent account 
+if balance==10, print "increase credit"
+  else
+print" eligible for loan
+  end if
