@@ -7,3 +7,16 @@ for i=1 to 100
 read customer account data in every month
 print
 end for
+
+end for 
+
+if customer is regular then 
+
+allow 2000 omr loan
+
+else
+
+no loan
+
+endif
+ 
